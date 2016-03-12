@@ -4,8 +4,15 @@
         <description><![CDATA[DesignKorps]]></description>
         <link>https://thegrid.ai/designkorps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 16:58:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designkorps/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Grace Under Pressure</p>]]></description>
+            <link>https://thegrid.ai/designkorps/e6ae9bd3-24b7-47db-bef3-a3a97e09af66/index.html</link>
+            <guid isPermaLink="false">e6ae9bd3-24b7-47db-bef3-a3a97e09af66</guid>
+            <pubDate>Sat, 12 Mar 2016 16:58:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ecbb347-4135-4d2b-9127-0053cbab1178.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/designkorps/7d0d5321-0f8c-4f9c-a144-713fb888f1e6/index.html</link>
             <guid isPermaLink="false">7d0d5321-0f8c-4f9c-a144-713fb888f1e6</guid>
             <pubDate>Sat, 12 Mar 2016 16:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3aa779c7-a903-40c4-8b37-f7aec6725bdf.jpg">]]></description>
-            <link>https://thegrid.ai/designkorps/6df5893d-8c2c-476a-9598-d18fddac1cd1/index.html</link>
-            <guid isPermaLink="false">6df5893d-8c2c-476a-9598-d18fddac1cd1</guid>
-            <pubDate>Sat, 12 Mar 2016 16:41:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
