@@ -1,7 +1,7 @@
 name: DesignKorps
 favicon: null
-layout_spectrum: 0.92304
-typography_spectrum: 0.63926
+layout_spectrum: 0.03639
+typography_spectrum: 0.48309
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000103'
-    - '#fbfcfe'
-    - '#1d90ce'
-    - '#073059'
-    - '#71c0eb'
-  brandStrength: 0.75
+    - '#040203'
+    - '#fdfdfd'
+    - '#4d2d18'
+    - '#e8ab74'
+    - '#0374b7'
+  brandStrength: 0.375
   lightness: 0.9002835012506694
   saturation: 0.625
   rhythmicContrast: 0.5
