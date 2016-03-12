@@ -4,7 +4,7 @@
         <description><![CDATA[DesignKorps]]></description>
         <link>https://thegrid.ai/designkorps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 17:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 17:15:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designkorps/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/designkorps/identify-yourself/index.html</link>
             <guid isPermaLink="false">e5b11184-c743-4667-8dae-a834b2b0c1a1</guid>
             <pubDate>Sat, 12 Mar 2016 16:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d658398-8e92-4279-8591-6bf82e5aa196.jpg">]]></description>
-            <link>https://thegrid.ai/designkorps/7d0d5321-0f8c-4f9c-a144-713fb888f1e6/index.html</link>
-            <guid isPermaLink="false">7d0d5321-0f8c-4f9c-a144-713fb888f1e6</guid>
-            <pubDate>Sat, 12 Mar 2016 16:41:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
