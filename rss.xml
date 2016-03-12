@@ -4,8 +4,15 @@
         <description><![CDATA[DesignKorps]]></description>
         <link>https://thegrid.ai/designkorps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:56:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 16:57:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designkorps/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/751f1c28-be4b-4e40-900d-3d669401d761.jpg">]]></description>
+            <link>https://thegrid.ai/designkorps/a42d9c92-6f43-43fa-9b47-30c99da49744/index.html</link>
+            <guid isPermaLink="false">a42d9c92-6f43-43fa-9b47-30c99da49744</guid>
+            <pubDate>Sat, 12 Mar 2016 16:55:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa4acc83-3880-40b8-a2df-9a1393219ea8.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/designkorps/0307eac5-9e4e-4869-8d34-8a2cd2ed5a7d/index.html</link>
             <guid isPermaLink="false">0307eac5-9e4e-4869-8d34-8a2cd2ed5a7d</guid>
             <pubDate>Sat, 12 Mar 2016 16:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c991e7-aef5-4c1a-af90-86ae1548df8f.jpg">]]></description>
-            <link>https://thegrid.ai/designkorps/7cc68596-668b-4e81-be00-23b7fca35356/index.html</link>
-            <guid isPermaLink="false">7cc68596-668b-4e81-be00-23b7fca35356</guid>
-            <pubDate>Sat, 12 Mar 2016 16:39:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
