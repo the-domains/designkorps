@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T12:59:35.783Z'
-dateModified: '2016-03-12T12:59:33.407Z'
+datePublished: '2016-03-12T15:15:51.329Z'
+dateModified: '2016-03-12T15:13:49.281Z'
 title: Grace Under Pressure
 author: []
 sourcePath: _posts/2016-03-12-grace-under-pressure.md
@@ -22,7 +22,6 @@ url: grace-under-pressure/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2190f3ca-7410-41f6-9b18-291a1866b3da.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/820a9415-6d58-44c3-892b-4ac24fc9a7e1.jpg)
 
 # Grace Under Pressure
@@ -38,13 +37,9 @@ Date: February 2015 Client:2112
 
 Role: Art Director, video editor, compositor, illustrator
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90d28d28-6059-4c23-a752-3b95e4eed562.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e25a443-0dbb-4faa-bcb9-ee720aff544e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7519311-6bca-40c5-bf11-8fc3941989ca.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ac60c7b-2ec2-4d6c-8cd7-ae1181a72967.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f31bcb5-4ce9-46cb-8458-95d4a8fbfa42.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb702073-dd36-4d12-912c-a788283f8ed1.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0636ee9-f7ce-430a-9f87-bc8d3d0901cc.jpg)
